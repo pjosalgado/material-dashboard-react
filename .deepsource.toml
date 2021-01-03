@@ -6,3 +6,8 @@ enabled = true
 
   [analyzers.meta]
   environment = ["browser"]
+  plugins = [
+    "react",
+    "vue",
+    "angular"
+  ]
